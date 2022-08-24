@@ -1,6 +1,6 @@
 <template>
   <table class="table">
-    <Item v-for='item in items' :key='item.id' :item='item'  />
+    <Item v-for='item in items' :key='item.id' :item='item' />
   </table>
 </template>
 
